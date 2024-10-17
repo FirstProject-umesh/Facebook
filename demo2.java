@@ -1,1 +1,1 @@
-hi i am demo2 user to create this file
+ hi i am demo2.java file content
