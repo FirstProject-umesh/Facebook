@@ -1,1 +1,1 @@
- hi i am demo2.java file content
+hi i am updated file for the git hub bash command 
